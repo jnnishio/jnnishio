@@ -20,4 +20,4 @@
 - Use of both classical CNNs and quantum CNNs (Q-CNNs) to classify cervical spondylosis
 - Comparative analysis of quantum computing vs deep learning  
 
-<sub>Note: my GitHub page is newly set up, so much of the material is taken from my brother's repositories, where we have been keeping our code.</sub>  
+<sub>Note: my GitHub page is newly set up, so much of the material is forked from my brother's repositories, where we have been keeping our code.</sub>  
