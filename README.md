@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi! I’m Jason, a junior at BASIS Independent Silicon Valley. I'm interested in machine learning, computational biology/bioinformatics, explainable AI, computational modeling of biological processes, the brain, bioengineering, statistics, and quantum computing.
 
-<!--
-**jnnishio/jnnishio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Take a look at some of my projects! (click on the links to see papers and more!)  
+<sub>Note: my GitHub page is newly set up, so much of the material is taken from my brother's repositories, where we have been keeping our code.</sub>  
+  
+[Magnification Independent Multi-Classification of Breast Cancer in Histopathology Images Using Deep Learning](https://github.com/jnnishio/Breast-Cancer)
+  
+- Versatile DL framework for early detection of breast cancer 
+- Novel image preprocessing/normalization techniques
+- Tackling breast cancer classification tasks for 8 different classes of breast tumors on histopathological images, independent of magnification factor
 
-Here are some ideas to get you started:
+[Early Detection and Severity Classification of Diabetic Retinopathy Through Image Processing and Deep Learning](https://github.com/jnnishio/Diabetic-Retinopathy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Novel image processing techniques for retina fundus scans
+- Severity level classification for 5 stages of diabetic retinopathy: Healthy, Mild, Moderate, Severe, Proliferate
+- App development for real-time screening
+
+
+[Evaluating the Effects of Color and Image Manipulation on Classification of Cervical Spondylosis X-Ray Images Using Deep Learning](https://github.com/jnnishio/Cervical-Spondylosis)
+- Color manipulations & image processing for spinal X-rays
+- Use of both classical CNNs and quantum CNNs (Q-CNNs) to classify cervical spondylosis
+- Comparative analysis of quantum computing vs deep learning
