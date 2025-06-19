@@ -1,4 +1,5 @@
-## Hi! I’m Jason, a rising senior at BASIS Independent Silicon Valley. I am currently a student research intern at the UCSF Francis I. Proctor Foundation for Research in Ophthalmology. I'm interested in machine learning, computational biology/bioinformatics, explainable AI, computational modeling of biological processes, the brain, bioengineering, statistics, and quantum computing.
+## Hi! I’m Jason, a rising senior at BASIS Independent Silicon Valley. I am currently a student research intern at the UCSF Francis I. Proctor Foundation for Research in Ophthalmology. 
+#### I'm interested in machine learning, computational biology/bioinformatics, explainable AI, computational modeling of biological processes, the brain, bioengineering, statistics, and quantum computing.
 
 ### Take a look at some of my projects! (click on the links to see papers & more!)
   
@@ -19,4 +20,4 @@
 - Use of both classical CNNs and quantum CNNs (Q-CNNs) to classify cervical spondylosis
 - Comparative analysis of quantum computing vs deep learning
 
-### ***See my [LinkedIn page](https://www.linkedin.com/in/jason-nishio/details/projects/) for details on my more recent projects---material for them will be uploaded soon**
+### ***See my [LinkedIn page](https://www.linkedin.com/in/jason-nishio/details/projects/) for details on my more recent projects—material for them will be uploaded soon**
