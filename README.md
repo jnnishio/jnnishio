@@ -20,4 +20,11 @@
 - Use of both classical CNNs and quantum CNNs (Q-CNNs) to classify cervical spondylosis
 - Comparative analysis of quantum computing vs deep learning
 
+[**Using Natural Language Processing and Sentiment Analysis for Sarcasm Detection in Online Media**
+](https://github.com/nknishio/Sarcasm-Detection)
+- Developing high-accuracy sarcasm detection framework to help non-native English speakers better understand the true intent behind English content they consume online
+- Creating a browser extension for 
+practical use
+
+
 ### ***See my [LinkedIn page](https://www.linkedin.com/in/jason-nishio/details/projects/) for details on my more recent projects—material for them will be uploaded soon**
